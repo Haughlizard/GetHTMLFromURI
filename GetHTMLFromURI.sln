@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHTMLFromURI", "GetHTMLFromURI\GetHTMLFromURI.csproj", "{BA0B7390-E7AB-4771-A04C-508A471EC7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0B7390-E7AB-4771-A04C-508A471EC7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0B7390-E7AB-4771-A04C-508A471EC7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0B7390-E7AB-4771-A04C-508A471EC7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0B7390-E7AB-4771-A04C-508A471EC7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
